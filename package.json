@@ -35,5 +35,8 @@
       "name": "anders",
       "email": "anders-git@evantide.com"
     }
-  ]
+  ],
+  "scripts": {
+    "start": "node ./bin/www"
+  }
 }
